@@ -5,64 +5,64 @@
     <description>Explain complex systems with simple terms, from the authors of the best-selling system design book series. Join over 1,000,000 friendly readers.</description>
     <managingEditor>alex@bytebytego.com</managingEditor>
     <item>
-      <title>【EP198: Best Resources to Learn AI in 2026】EP198：2026 年学习人工智能的最佳资源</title>
-      <link>https://blog.bytebytego.com/p/ep198-best-resources-to-learn-ai</link>
-      <description>【The AI resources can be divided into different types such as】AI资源可以分为不同类型，例如</description>
-      <pubDate>Sat, 17 Jan 2026 16:30:31 +0000</pubDate>
+      <title>【How Grab Built a Vision LLM to Scan Images】Grab 如何构建视觉法学硕士来扫描图像</title>
+      <link>https://blog.bytebytego.com/p/how-grab-built-a-vision-llm-to-scan</link>
+      <description>【While powerful proprietary Large Language Models (LLMs) were available, they often failed to adequately understand Southeast Asian languages, produced errors and hallucinations, and suffered from high latency.】虽然强大的专有大型语言模型 (LLM) 可用，但它们常常无法充分理解东南亚语言，产生错误和幻觉，并且存在高延迟。</description>
+      <pubDate>Tue, 03 Feb 2026 16:30:36 +0000</pubDate>
     </item>
     <item>
-      <title>【Last Call: Enrollment for the AI Engineering Cohort 3 Ends Today】最后通知：人工智能工程第三期的报名今天结束</title>
-      <link>https://blog.bytebytego.com/p/last-call-enrollment-for-the-ai-engineering-f1a</link>
-      <description>【Our third cohort of Becoming an AI Engineer starts in one day. This is a live, cohort-based course created in collaboration with best-selling author Ali Aminian and published by ByteByteGo.】我们的第三批“成为人工智能工程师”课程将在一天后开始。这是一门基于队列的实时课程，由 ByteByteGo 与畅销书作家 Ali Aminian 合作创建。</description>
-      <pubDate>Fri, 16 Jan 2026 16:30:56 +0000</pubDate>
+      <title>【How Transformers Architecture Powers Modern LLMs】Transformers 架构如何为现代法学硕士提供动力</title>
+      <link>https://blog.bytebytego.com/p/how-transformers-architecture-powers</link>
+      <description>【In this article, we will look at how the transformer architecture works in a step-by-step manner.】在本文中，我们将逐步了解变压器架构的工作原理。</description>
+      <pubDate>Mon, 02 Feb 2026 16:31:12 +0000</pubDate>
     </item>
     <item>
-      <title>【A Guide to Database Sharding】数据库分片指南</title>
-      <link>https://blog.bytebytego.com/p/must-know-message-broker-patterns-4c4</link>
-      <description>【In this article, we will learn about database sharding in more detail. We will understand what it is, why it matters, how different approaches work, and what key considerations are important when implementing it.】在本文中，我们将更详细地了解数据库分片。我们将了解它是什么、为什么它很重要、不同的方法如何运作以及实施它时需要考虑哪些关键因素。</description>
-      <pubDate>Thu, 15 Jan 2026 16:31:05 +0000</pubDate>
+      <title>【EP200: HTTP/2 over TCP vs HTTP/3 over QUIC】EP200：基于 TCP 的 HTTP/2 与基于 QUIC 的 HTTP/3</title>
+      <link>https://blog.bytebytego.com/p/ep200-http2-over-tcp-vs-http3-over</link>
+      <description>【HTTP/2 vs HTTP/3 looks like an HTTP upgrade. It&amp;#8217;s actually a transport-layer rethink.】HTTP/2 与 HTTP/3 看起来像是 HTTP 的升级。这实际上是传输层的重新思考。</description>
+      <pubDate>Sat, 31 Jan 2026 16:31:08 +0000</pubDate>
     </item>
     <item>
-      <title>【How Uber Serves over 150 Million Reads per Second from Integrated Cache】Uber 如何通过集成缓存提供每秒超过 1.5 亿次的读取</title>
-      <link>https://blog.bytebytego.com/p/how-uber-serves-over-150-million</link>
-      <description>【In this article, we break down how Uber built this system, the challenges they faced, and the innovative solutions they developed.】在本文中，我们将详细介绍 Uber 如何构建该系统、他们面临的挑战以及他们开发的创新解决方案。</description>
-      <pubDate>Wed, 14 Jan 2026 16:31:13 +0000</pubDate>
+      <title>【How to Scale An API】如何扩展 API</title>
+      <link>https://blog.bytebytego.com/p/how-to-scale-an-api</link>
+      <description>【In this article, we will learn how to scale APIs effectively using different strategies.】在本文中，我们将学习如何使用不同的策略有效地扩展 API。</description>
+      <pubDate>Thu, 29 Jan 2026 16:30:59 +0000</pubDate>
     </item>
     <item>
-      <title>【How Lyft Built an ML Platform That Serves Millions of Predictions Per Second】Lyft 如何构建每秒可提供数百万次预测的机器学习平台</title>
-      <link>https://blog.bytebytego.com/p/how-lyft-built-an-ml-platform-that</link>
-      <description>【In this article, we will look at how Lyft built this platform and the architecture behind it.】在本文中，我们将了解 Lyft 如何构建这个平台及其背后的架构。</description>
-      <pubDate>Tue, 13 Jan 2026 16:30:57 +0000</pubDate>
+      <title>【How to Write High-Performance Code】如何编写高性能代码</title>
+      <link>https://blog.bytebytego.com/p/how-to-write-high-performance-code</link>
+      <description>【This article is about that critical 3%, where we&amp;#8217;ll explore how to estimate performance impact, when to measure, what to look for, and practical techniques that work across different programming languages.】本文讨论的是关键的 3%，我们将探讨如何估计性能影响、何时测量、要寻找什么以及跨不同编程语言的实用技术。</description>
+      <pubDate>Wed, 28 Jan 2026 16:30:44 +0000</pubDate>
     </item>
     <item>
-      <title>【A Guide to LLM Evals】LLM 评估指南</title>
-      <link>https://blog.bytebytego.com/p/a-guide-to-llm-evals</link>
-      <description>【In this article, we&amp;#8217;ll explore why LLM evaluation is challenging, the different types of evaluations available, key concepts to understand, and practical guidance on setting up an evaluation process.】在本文中，我们将探讨为什么法学硕士评估具有挑战性、可用的不同类型的评估、需要理解的关键概念以及建立评估流程的实用指南。</description>
-      <pubDate>Mon, 12 Jan 2026 16:30:42 +0000</pubDate>
+      <title>【How Google Manages Trillions of Authorizations with Zanzibar】Google 如何管理桑给巴尔数万亿的授权</title>
+      <link>https://blog.bytebytego.com/p/how-google-manages-trillions-of-authorizations</link>
+      <description>【In this article, we will look at the high-level architecture of Zanzibar and understand the valuable lessons it provides for building large-scale systems, particularly around the challenges of distributed authorization.】在本文中，我们将研究 Zanzibar 的高级架构，并了解它为构建大型系统提供的宝贵经验，特别是围绕分布式授权的挑战。</description>
+      <pubDate>Tue, 27 Jan 2026 16:30:31 +0000</pubDate>
     </item>
     <item>
-      <title>【EP197: 12 Architectural Concepts Developers Should Know】EP197：开发人员应该了解的 12 个架构概念</title>
-      <link>https://blog.bytebytego.com/p/ep197-12-architectural-concepts-developers</link>
-      <description>【Which architectural concept will you add to the list?】您会将哪种建筑概念添加到列表中？</description>
-      <pubDate>Sat, 10 Jan 2026 16:30:58 +0000</pubDate>
+      <title>【How Cursor Shipped its Coding Agent to Production】Cursor 如何将其编码代理交付生产</title>
+      <link>https://blog.bytebytego.com/p/how-cursor-shipped-its-coding-agent</link>
+      <description>【Cursor&amp;#8217;s engineering team has shared technical details and challenges from building Composer and shipping their coding agent into production. This article breaks down those engineering challenges and how they solved them.】Cursor 的工程团队分享了构建 Composer 并将其编码代理投入生产的技术细节和挑战。本文详细介绍了这些工程挑战以及它们是如何解决的。</description>
+      <pubDate>Mon, 26 Jan 2026 16:30:35 +0000</pubDate>
     </item>
     <item>
-      <title>【Must-Know Message Broker Patterns】必须了解的消息代理模式</title>
-      <link>https://blog.bytebytego.com/p/must-know-message-broker-patterns</link>
-      <description>【In this article, we will look at each of these patterns in detail and understand the scenarios where they help the most.】在本文中，我们将详细研究每种模式并了解它们最有帮助的场景。</description>
-      <pubDate>Thu, 08 Jan 2026 16:30:49 +0000</pubDate>
+      <title>【EP199: Behind the Scenes: What Happens When You Enter Google.com】EP199：幕后花絮：进入 Google.com 后会发生什么</title>
+      <link>https://blog.bytebytego.com/p/ep199-behind-the-scenes-what-happens</link>
+      <description>【Most of us hit Enter and expect the page to load instantly, but under the hood, a surprisingly intricate chain of events fires off in milliseconds.】我们大多数人按下 Enter 并期望页面立即加载，但在幕后，一系列令人惊讶的复杂事件在几毫秒内触发。</description>
+      <pubDate>Sat, 24 Jan 2026 16:30:29 +0000</pubDate>
     </item>
     <item>
-      <title>【How AI Transformed Database Debugging at Databricks】AI 如何改变 Databricks 的数据库调试</title>
-      <link>https://blog.bytebytego.com/p/how-ai-transformed-database-debugging</link>
-      <description>【In this article, we will look at how the Databricks engineering team built this platform and the challenges faced along the way.】在本文中，我们将了解 Databricks 工程团队如何构建这个平台以及在此过程中面临的挑战。</description>
-      <pubDate>Tue, 06 Jan 2026 16:31:08 +0000</pubDate>
+      <title>【We are hiring at ByteByteGo】我们正在 ByteByteGo 招聘</title>
+      <link>https://blog.bytebytego.com/p/we-are-hiring-at-bytebytego</link>
+      <description>【I am hiring for 2 roles: Technical Deep Dive Writer (System Design or AI Systems), and Lead Instructor (Building the World&amp;#8217;s Most Useful AI Cohort).】我正在招聘 2 个职位：技术深度作家（系统设计或人工智能系统）和首席讲师（建立世界上最有用的人工智能群体）。</description>
+      <pubDate>Fri, 23 Jan 2026 16:31:08 +0000</pubDate>
     </item>
     <item>
-      <title>【How Google’s Tensor Processing Unit (TPU) Works?】谷歌的张量处理单元（TPU）是如何工作的？</title>
-      <link>https://blog.bytebytego.com/p/how-googles-tensor-processing-unit</link>
-      <description>【In this article, we look at why Google built custom silicon, and how it works, revealing the physical constraints and engineering trade-offs they had to make.】在本文中，我们将探讨谷歌为何构建定制芯片及其工作原理，揭示他们必须做出的物理限制和工程权衡。</description>
-      <pubDate>Mon, 05 Jan 2026 16:31:12 +0000</pubDate>
+      <title>【The Must-Know Fundamentals of Distributed Systems】分布式系统必须了解的基础知识</title>
+      <link>https://blog.bytebytego.com/p/the-must-know-fundamentals-of-distributed</link>
+      <description>【In this article, we will look at five foundational topics around distributed systems: how computers communicate across networks, the protocols enabling reliable communication, how remote procedure calls abstract complexity, strategies for handling failures, and why time synchronization presents unique challenges.】在本文中，我们将研究围绕分布式系统的五个基本主题：计算机如何跨网络通信、实现可靠通信的协议、远程过程如何调用抽象复杂性、处理故障的策略以及为什么时间同步会带来独特的挑战。</description>
+      <pubDate>Thu, 22 Jan 2026 16:31:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

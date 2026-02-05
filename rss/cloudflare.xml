@@ -4,6 +4,54 @@
     <link>https://blog.cloudflare.com/</link>
     <description> Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet. </description>
     <item>
+      <title>【Improve global upload performance with R2 Local Uploads】使用 R2 本地上传提高全局上传性能</title>
+      <link>https://blog.cloudflare.com/r2-local-uploads/</link>
+      <description>【 Local Uploads on R2 reduces request duration for uploads by up to 75%. It writes object data to a nearby location and asynchronously copies it to your bucket, all while data is available immediately.  】R2 上的本地上传可将上传请求持续时间缩短高达 75%。它将对象数据写入附近的位置并将其异步复制到您的存储桶，同时数据立即可用。</description>
+      <pubDate>Tue, 03 Feb 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Google’s AI advantage: why crawler separation is the only path to a fair Internet】谷歌的AI优势：为什么爬虫分离是通往公平互联网的唯一途径</title>
+      <link>https://blog.cloudflare.com/uk-google-ai-crawler-policy/</link>
+      <description>【 Google&#39;s dual-purpose crawler creates an unfair AI advantage. To protect publishers and foster competition, the UK’s Competition and Markets Authority must mandate crawler separation for search and AI. 】谷歌的两用爬虫创造了不公平的人工智能优势。为了保护出版商并促进竞争，英国竞争和市场管理局必须强制执行搜索和人工智能爬虫分离。</description>
+      <pubDate>Fri, 30 Jan 2026 17:01:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Building vertical microfrontends on Cloudflare’s platform】在 Cloudflare 平台上构建垂直微前端</title>
+      <link>https://blog.cloudflare.com/vertical-microfrontends/</link>
+      <description>【 Deploy multiple Workers under a single domain with the ability to make them feel like single-page applications. We take a look at how service bindings enable URL path routing to multiple projects. 】在单个域下部署多个 Worker，能够使它们感觉像单页应用程序。我们来看看服务绑定如何启用 URL 路径路由到多个项目。</description>
+      <pubDate>Fri, 30 Jan 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Introducing Moltworker: a self-hosted personal AI agent, minus the minis】Moltworker 简介：一个自托管的个人人工智能代理，减去迷你</title>
+      <link>https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/</link>
+      <description>【 Moltworker is a middleware Worker and adapted scripts that allows running OpenClaw (formerly Moltbot, formerly Clawdbot) on Cloudflare&#39;s Sandbox SDK and our Developer Platform APIs. So you can self-host an AI personal assistant — without any new hardware. 】Moltworker 是一个中间件 Worker 和改编脚本，允许在 Cloudflare 的 Sandbox SDK 和我们的开发者平台 API 上运行 OpenClaw（以前称为 Moltbot、以前称为 Clawdbot）。因此，您可以自行托管人工智能个人助理——无需任何新硬件。</description>
+      <pubDate>Thu, 29 Jan 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Building a serverless, post-quantum Matrix homeserver】构建无服务器、后量子 Matrix 家庭服务器</title>
+      <link>https://blog.cloudflare.com/serverless-matrix-homeserver-workers/</link>
+      <description>【 As a proof of concept, we built a Matrix homeserver to Cloudflare Workers — delivering encrypted messaging at the edge with automatic post-quantum cryptography. 】作为概念验证，我们为 Cloudflare Workers 构建了一个 Matrix 家庭服务器 - 使用自动后量子加密技术在边缘提供加密消息传递。</description>
+      <pubDate>Tue, 27 Jan 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Cable cuts, storms, and DNS: a look at Internet disruptions in Q4 2025】电缆切断、风暴和 DNS：2025 年第四季度互联网中断一览</title>
+      <link>https://blog.cloudflare.com/q4-2025-internet-disruption-summary/</link>
+      <description>【 The last quarter of 2025 brought several notable disruptions to Internet connectivity. Cloudflare Radar data reveals the impact of cable cuts, power outages, extreme weather, technical problems, and more. 】2025 年最后一个季度的互联网连接出现了几次明显的中断。 Cloudflare Radar 数据揭示了电缆切断、停电、极端天气、技术问题等的影响。</description>
+      <pubDate>Mon, 26 Jan 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【Route leak incident on January 22, 2026】2026年1月22日路由泄露事件</title>
+      <link>https://blog.cloudflare.com/route-leak-incident-january-22-2026/</link>
+      <description>【 An automated routing policy configuration error caused us to leak some Border Gateway Protocol prefixes unintentionally from a router at our Miami data center. We discuss the impact and the changes we are implementing as a result. 】自动路由策略配置错误导致我们无意中从迈阿密数据中心的路由器泄漏了一些边界网关协议前缀。我们讨论了影响以及我们正在实施的变革。</description>
+      <pubDate>Fri, 23 Jan 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>【How we mitigated a vulnerability in Cloudflare’s ACME validation logic】我们如何缓解 Cloudflare ACME 验证逻辑中的漏洞</title>
+      <link>https://blog.cloudflare.com/acme-path-vulnerability/</link>
+      <description>【 A vulnerability was recently identified in Cloudflare’s automation of certificate validation. Here we explain the vulnerability and outline the steps we’ve taken to mitigate it.  】最近在 Cloudflare 的证书验证自动化中发现了一个漏洞。在这里，我们解释了该漏洞并概述了我们为缓解该漏洞而采取的步骤。</description>
+      <pubDate>Mon, 19 Jan 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>【Astro is joining Cloudflare】Astro 即将加入 Cloudflare</title>
       <link>https://blog.cloudflare.com/astro-joins-cloudflare/</link>
       <description>【 The Astro Technology Company team — the creators of the Astro web framework — is joining Cloudflare. We’re doubling down on making Astro the best framework for content-driven websites, today and in the years to come. 】Astro Technology Company 团队（Astro Web 框架的创建者）即将加入 Cloudflare。我们正在加倍努力，使 Astro 成为当今和未来几年内容驱动网站的最佳框架。</description>
@@ -14,54 +62,6 @@
       <link>https://blog.cloudflare.com/human-native-joins-cloudflare/</link>
       <description>【 Cloudflare acquires Human Native, an AI data marketplace specialising in transforming content into searchable and useful data, to accelerate work building new economic models for the Internet. 】Cloudflare 收购了 Human Native，这是一个专门将内容转换为可搜索且有用的数据的人工智能数据市场，以加快构建互联网新经济模型的工作。</description>
       <pubDate>Thu, 15 Jan 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What came first: the CNAME or the A record?】哪个先出现：CNAME 还是 A 记录？</title>
-      <link>https://blog.cloudflare.com/cname-a-record-order-dns-standards/</link>
-      <description>【 A recent change to 1.1.1.1 accidentally altered the order of CNAME records in DNS responses, breaking resolution for some clients. This post explores the technical root cause, examines the source code of affected resolvers, and dives into the inherent ambiguities of the DNS RFCs.   】最近对 1.1.1.1 的更改意外更改了 DNS 响应中 CNAME 记录的顺序，从而破坏了某些客户端的解析。这篇文章探讨了技术根本原因，检查了受影响解析器的源代码，并深入探讨了 DNS RFC 固有的模糊性。</description>
-      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【What we know about Iran’s Internet shutdown】我们对伊朗互联网关闭的了解</title>
-      <link>https://blog.cloudflare.com/iran-protests-internet-shutdown/</link>
-      <description>【 Cloudflare Radar data shows Internet traffic from Iran has effectively dropped to zero since January 8, signaling a complete shutdown in the country and disconnection from the global Internet.  &#xA; 】Cloudflare Radar 数据显示，自 1 月 8 日以来，来自伊朗的互联网流量实际上已降至零，这表明该国已完全关闭并与全球互联网断开连接。</description>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【A closer look at a BGP anomaly in Venezuela】仔细观察委内瑞拉的 BGP 异常</title>
-      <link>https://blog.cloudflare.com/bgp-route-leak-venezuela/</link>
-      <description>【 There has been speculation about the cause of a BGP anomaly observed in Venezuela on January 2. We take a look at BGP route leaks, and dive into what the data suggests caused the anomaly in question. 】人们对 1 月 2 日在委内瑞拉观察到的 BGP 异常的原因进行了猜测。我们研究了 BGP 路由泄漏，并深入研究了数据表明是什么导致了相关异常。</description>
-      <pubDate>Tue, 06 Jan 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【How Workers powers our internal maintenance scheduling pipeline】Workers 如何为我们的内部维护计划流程提供支持</title>
-      <link>https://blog.cloudflare.com/building-our-maintenance-scheduler-on-workers/</link>
-      <description>【 Physical data center maintenance is risky on a global network. We built a maintenance scheduler on Workers to safely plan disruptive operations, while solving scaling challenges by viewing the state of our infrastructure through a graph interface on top of multiple data sources and metrics pipelines. 】全球网络上的物理数据中心维护存在风险。我们在 Workers 上构建了一个维护调度程序，以安全地计划中断性操作，同时通过多个数据源和指标管道之上的图形界面查看基础设施的状态来解决扩展挑战。</description>
-      <pubDate>Mon, 22 Dec 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Code Orange: Fail Small — our resilience plan following recent incidents】橙色代码：小失败——我们在最近发生的事件后的恢复计划</title>
-      <link>https://blog.cloudflare.com/fail-small-resilience-plan/</link>
-      <description>【 We have declared “Code Orange: Fail Small” to focus everyone at Cloudflare on a set of high-priority workstreams with one simple goal: ensure that the cause of our last two global outages never happens again. 】我们宣布了“橙色代码：小规模失败”，让 Cloudflare 的每个人都专注于一组高优先级工作流，其目标很简单：确保我们最近两次全球中断的原因不再发生。</description>
-      <pubDate>Fri, 19 Dec 2025 22:35:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Innovating to address streaming abuse — and our latest transparency report】创新解决流媒体滥用问题——以及我们最新的透明度报告</title>
-      <link>https://blog.cloudflare.com/h1-2025-transparency-report/</link>
-      <description>【 Cloudflare&#39;s H1 2025 Transparency Report is here. We discuss our principles on content blocking and our innovative approach to combating unauthorized streaming and copyright abuse. 】Cloudflare 的 2025 年上半年透明度报告位于此处。我们讨论了内容屏蔽的原则以及打击未经授权的流媒体和版权滥用的创新方法。</description>
-      <pubDate>Fri, 19 Dec 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【Announcing support for GROUP BY, SUM, and other aggregation queries in R2 SQL】宣布支持 R2 SQL 中的 GROUP BY、SUM 和其他聚合查询</title>
-      <link>https://blog.cloudflare.com/r2-sql-aggregations/</link>
-      <description>【 Cloudflare’s R2 SQL, a distributed query engine, now supports aggregations. Explore how we built distributed GROUP BY execution, using scatter-gather and shuffling strategies to run analytics directly over your R2 Data Catalog. 】Cloudflare 的 R2 SQL（分布式查询引擎）现在支持聚合。探索我们如何构建分布式 GROUP BY 执行，使用分散-聚集和改组策略直接在 R2 数据目录上运行分析。</description>
-      <pubDate>Thu, 18 Dec 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>【The 2025 Cloudflare Radar Year in Review: The rise of AI, post-quantum, and record-breaking DDoS attacks】2025 年 Cloudflare Radar 回顾：人工智能的兴起、后量子和破纪录的 DDoS 攻击</title>
-      <link>https://blog.cloudflare.com/radar-2025-year-in-review/</link>
-      <description>【 We present our 6th annual review of Internet trends and patterns observed across the globe, revealing the disruptions, advances and metrics that defined 2025.  】我们对全球范围内观察到的互联网趋势和模式进行了第六次年度回顾，揭示了 2025 年的颠覆、进步和指标。</description>
-      <pubDate>Mon, 15 Dec 2025 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

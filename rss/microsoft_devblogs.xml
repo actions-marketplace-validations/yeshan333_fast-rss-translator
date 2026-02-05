@@ -10,58 +10,58 @@
       <pubDate>Wed, 04 Feb 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【What&#39;s new with Azure Repos?】Azure Repos 有哪些新功能？</title>
-      <link>https://devblogs.microsoft.com/devops/whats-new-with-azure-repos</link>
-      <description>【We thought it was a good time to check in and highlight some of the work happening in Azure Repos. In this post, we’ve covered several recent improvements, along with a preview of features that are coming soon. To stay up to date, be sure to visit the】我们认为现在是检查并重点介绍 Azure Repos 中发生的一些工作的好时机。在这篇文章中，我们介绍了最近的几项改进，以及即将推出的功能预览。要了解最新信息，请务必访问</description>
-      <pubDate>Fri, 16 Jan 2026 19:34:04 +0000</pubDate>
+      <title>【Deprecation notice: Teams Live Events meeting creation via Microsoft Graph】弃用通知：通过 Microsoft Graph 创建 Teams Live Events 会议</title>
+      <link>https://devblogs.microsoft.com/microsoft365dev/deprecation-notice-teams-live-events-meeting-creation-via-microsoft-graph</link>
+      <description>【We’re announcing an important change for developers using Microsoft Graph APIs to create Teams Live Events. Starting March 31, 2026, the beta endpoint will no longer support the isBroadcast property of the on】我们宣布针对使用 Microsoft Graph API 创建 Teams Live Events 的开发人员进行一项重要更改。从 2026 年 3 月 31 日开始，Beta 端点将不再支持 on 的 isBroadcast 属性</description>
+      <pubDate>Tue, 03 Feb 2026 16:55:49 +0000</pubDate>
     </item>
     <item>
-      <title>【How can I get the tab index number from a dialog box control?】如何从对话框控件中获取选项卡索引号？</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260116-00/?p=111991</link>
-      <description>【A customer wanted to retrieve the TabIndex of a dialog box control. They were able to get its class name and】客户想要检索对话框控件的 TabIndex。他们能够得到它的类名并且</description>
-      <pubDate>Fri, 16 Jan 2026 15:00:00 +0000</pubDate>
+      <title>【Part 2: Building a Python CRUD API with Azure Functions and Azure Cosmos DB】第 2 部分：使用 Azure Functions 和 Azure Cosmos DB 构建 Python CRUD API</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/part-2-building-a-python-crud-api-with-azure-functions-and-azure-cosmos-db</link>
+      <description>【Series: Building Serverless Applications with Azure Functions and Azure Cosmos DB In the first post of this series, we focused on establishing the fundamentals of serverless architectur】系列：使用 Azure Functions 和 Azure Cosmos DB 构建无服务器应用程序 在本系列的第一篇文章中，我们重点介绍了无服务器架构的基础知识</description>
+      <pubDate>Tue, 03 Feb 2026 15:10:30 +0000</pubDate>
     </item>
     <item>
-      <title>【Part 1: Building Your First Serverless HTTP API on Azure with Azure Functions &amp; FastAPI】第 1 部分：使用 Azure Functions 和 FastAPI 在 Azure 上构建第一个无服务器 HTTP API</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/building-your-first-serverless-http-api-on-azure-with-azure-functions-fastapi</link>
-      <description>【Introduction  This post is Part 1 of the series Serverless Application Development with Azure Functions and Az】简介 本文是使用 Azure Functions 和 Az 进行无服务器应用程序开发系列的第 1 部分</description>
-      <pubDate>Fri, 16 Jan 2026 12:00:19 +0000</pubDate>
+      <title>【Performance improvements to MEF-based editor productivity extensions】基于 MEF 的编辑器生产力扩展的性能改进</title>
+      <link>https://devblogs.microsoft.com/visualstudio/performance-improvements-to-mef-based-editor-productivity-extensions</link>
+      <description>【If you use editor productivity extensions for Visual Studio 2026, there&#39;s good news—they can now load faster! Extension developers with existing MEF-based editor productivity extensions should read this blog to learn about recent changes and how they might be affected. 】如果您使用 Visual Studio 2026 的编辑器生产力扩展，那么有个好消息 - 它们现在可以更快地加载！拥有现有基于 MEF 的编辑器生产力扩展的扩展开发人员应该阅读此博客，以了解最近的更改以及它们可能受到的影响。 </description>
+      <pubDate>Tue, 03 Feb 2026 15:00:21 +0000</pubDate>
     </item>
     <item>
-      <title>【Evaluate Small Language Model Function Calling using the Azure AI Evaluation SDK】使用 Azure AI 评估 SDK 评估小语言模型函数调用</title>
-      <link>https://devblogs.microsoft.com/ise/slm-function-calling-with-azure-ai-evaluation-sdk</link>
-      <description>【Introduction In recent years, Small Language Models (SLMs) have become increasingly important. SLMs are language models with far fewer parameters and use significantly fewer resources than their Large Language Model (LLM) counterparts, while still achieving comparable performance in specific tasks. SLMs are ideal for environments wh】简介 近年来，小语言模型（SLM）变得越来越重要。 SLM 是参数少得多的语言模型，比大型语言模型 (LLM) 模型使用的资源少得多，同时在特定任务中仍能实现相当的性能。 SLM 非常适合以下环境：</description>
-      <pubDate>Fri, 16 Jan 2026 08:00:00 +0000</pubDate>
+      <title>【Some small stories about the giant satellite dish antenna that was behind Microsoft Building 11】关于微软 11 号楼背后的巨型卫星天线的一些小故事</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260203-00/?p=112035</link>
+      <description>【Back in the day, if you wandered into the parking area behind Building 11 on the original Redmond Microsoft campus, you would find a very large satellite dish antenna. This antenna was used for receiving video signals, such as cable television feeds for distribution to the Redmond campus. One purpose was to provide cable TV service for inte】以前，如果您漫步走进原雷蒙德微软园区 11 号楼后面的停车场，您会发现一个非常大的碟形卫星天线。该天线用于接收视频信号，例如分发到雷德蒙德园区的有线电视信号。目的之一是为国际互联网提供有线电视服务</description>
+      <pubDate>Tue, 03 Feb 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing GPT-5.2 Availability in Azure for U.S. Government Secret and Top Secret Clouds】宣布 Azure 中适用于美国政府机密和绝密云的 GPT-5.2</title>
-      <link>https://devblogs.microsoft.com/azuregov/advancing-ai-capabilities-in-azure-for-u-s-government-secret-and-top-secret-clouds</link>
-      <description>【Today, we are excited to announce that GPT-5.2, Azure OpenAI’s newest frontier reasoning model, is available in Microsoft Azure for U.S. Government Secret and Top Secret cloud environments. This release marks another significant milestone in our mission to b】今天，我们很高兴地宣布，Azure OpenAI 的最新前沿推理模型 GPT-5.2 已在 Microsoft Azure 中用于美国政府机密和绝密云环境。此版本标志着我们使命的另一个重要里程碑</description>
-      <pubDate>Thu, 15 Jan 2026 18:52:42 +0000</pubDate>
+      <title>【Java OpenJDK January 2026 Patch &amp; Security Update】Java OpenJDK 2026 年 1 月补丁和安全更新</title>
+      <link>https://devblogs.microsoft.com/java/java-openjdk-january-2026-patch-security-update</link>
+      <description>【Hello Java customers! We are happy to announce the latest January 2026 patch &amp;amp; security update release for the Microsoft Build of OpenJDK. Download and install the binaries today. OpenJDK 25.0.2 OpenJDK 21.0.10 OpenJDK 17.0.18 OpenJDK 11.0.30】Java 客户您好！我们很高兴地宣布 Microsoft Build of OpenJDK 的最新 2026 年 1 月补丁和安全更新版本。立即下载并安装二进制文件。 OpenJDK 25.0.2 OpenJDK 21.0.10 OpenJDK 17.0.18 OpenJDK 11.0.30</description>
+      <pubDate>Mon, 02 Feb 2026 23:40:33 +0000</pubDate>
     </item>
     <item>
-      <title>【When programs assume that the system will never change, episode 4: Stealing strings】当程序假设系统永远不会改变时，第 4 集：窃取字符串</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260115-00/?p=111988</link>
-      <description>【A customer had a program that automated a workflow, and one of the steps was to run a console program that came with Windows, and that console program printed a confirmation prompt &#34;Are you sure (Y/N)?&#34;. They wanted to programmatically say Yes, but since the customer had employees around the world, they couldn&#39;t hard code the lette】一位客户有一个自动化工作流程的程序，其中一个步骤是运行 Windows 附带的控制台程序，该控制台程序打印一条确认提示“您确定 (Y/N) 吗？”。他们想以编程方式说“是”，但由于客户在世界各地都有员工，他们无法对字母进行硬编码</description>
-      <pubDate>Thu, 15 Jan 2026 15:00:00 +0000</pubDate>
+      <title>【Azure Cosmos DB Data Explorer now supports Dark Mode】Azure Cosmos DB 数据资源管理器现在支持深色模式</title>
+      <link>https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-data-explorer-now-supports-dark-mode</link>
+      <description>【If you spend time in the Azure Portal’s using Azure Cosmos DB Data Explorer, you know it’s a “lots of screens, lots of tabs, lots of work happening” kind of place. So I’m excited to share a small upgrade that makes a big difference: Dark Mode is now supported in Cosmos DB Data Explorer.】如果您使用 Azure Cosmos DB 数据资源管理器在 Azure 门户中花费时间，您就会知道这是一个“有很多屏幕、很多选项卡、发生大量工作”的地方。因此，我很高兴与大家分享一个带来重大改变的小升级：Cosmos DB 数据资源管理器现在支持深色模式。</description>
+      <pubDate>Mon, 02 Feb 2026 20:00:27 +0000</pubDate>
     </item>
     <item>
-      <title>【Announcing Microsoft Entra PowerShell v1.2.0】宣布推出 Microsoft Entra PowerShell v1.2.0</title>
-      <link>https://devblogs.microsoft.com/entrapowershell/announcing-microsoft-entra-powershell-v1-2-0</link>
-      <description>【We are excited to introduce Microsoft Entra PowerShell v1.2.0, a major update that delivers full support for Agent Identity Blueprints, expanded application configuration capabilities, and modernized invitation APIs aligned with Microsoft Graph】我们很高兴推出 Microsoft Entra PowerShell v1.2.0，这是一项重大更新，提供对代理身份蓝图的全面支持、扩展的应用程序配置功能以及与 Microsoft Graph 一致的现代化邀请 API</description>
-      <pubDate>Thu, 15 Jan 2026 13:37:42 +0000</pubDate>
+      <title>【Studying compiler error messages closely: Input file paths】仔细研究编译器错误消息：输入文件路径</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260202-00/?p=112027</link>
+      <description>【A colleague was working in a project that used a number of data files to configure how the program worked. They wanted one portion of the configuration file to be included only if a particular build flag was set. Let&#39;s say that the configuration file is C:\repos\contoso\config\Contoso.config. &amp;】一位同事正在从事一个项目，该项目使用多个数据文件来配置程序的工作方式。他们希望仅在设置了特定构建标志时才包含配置文件的一部分。假设配置文件是 C:\repos\contoso\config\Contoso.config。 &amp;</description>
+      <pubDate>Mon, 02 Feb 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>【Copilot Memories】副驾驶回忆</title>
-      <link>https://devblogs.microsoft.com/visualstudio/copilot-memories</link>
-      <description>【Are you wasting time reviewing code for nits on code standards, project preferences, or important contribution guidelines?】您是否在浪费时间审查代码以了解代码标准、项目偏好或重要的贡献指南？</description>
-      <pubDate>Thu, 15 Jan 2026 13:00:33 +0000</pubDate>
+      <title>【Build AI Agents with Claude Agent SDK and Microsoft Agent Framework】使用 Claude Agent SDK 和 Microsoft Agent 框架构建 AI 代理</title>
+      <link>https://devblogs.microsoft.com/semantic-kernel/build-ai-agents-with-claude-agent-sdk-and-microsoft-agent-framework</link>
+      <description>【Microsoft Agent Framework now integrates with the Claude Agent SDK, enabling you to build AI agents powered by Claude&#39;s full agentic capabilities. This integration brings together the Agent Framework&#39;s consistent agent abstraction with Claude&#39;s powerful features, including fil】Microsoft Agent Framework 现在与 Claude Agent SDK 集成，使您能够构建由 Claude 完整代理功能支持的 AI 代理。这种集成将代理框架的一致代理抽象与 Claude 的强大功能结合在一起，包括 fil</description>
+      <pubDate>Fri, 30 Jan 2026 19:21:49 +0000</pubDate>
     </item>
     <item>
-      <title>【Azure Cosmos DB Conf 2026 — Call for Proposals Is Now Open】Azure Cosmos DB Conf 2026 — 提案征集现已开放</title>
-      <link>https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-conf-2026-call-for-proposals-is-open</link>
-      <description>【Every production system has a story behind it. The scaling limit you didn’】每个生产系统背后都有一个故事。你没有的缩放限制</description>
-      <pubDate>Thu, 15 Jan 2026 08:00:24 +0000</pubDate>
+      <title>【Why not store the &lt;CODE&gt;SAFEARRAY&lt;/CODE&gt; reference count as a hidden allocation next to the &lt;CODE&gt;SAFEARRAY&lt;/CODE&gt;?】为什么不将 &lt;code&gt;SAFEARRAY&lt;/code&gt; 引用计数存储为 &lt;code&gt;SAFEARRAY&lt;/code&gt; 旁边的隐藏分配？</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260130-00/?p=112025</link>
+      <description>【When I described how Safe­Array­Add­Ref keeps its reference count in a side table, commenter Koro Unhallowed wondered】当我描述 SafeArrayAddRef 如何将其引用计数保存在侧表中时，评论者 Koro Unhallowed 表示想知道</description>
+      <pubDate>Fri, 30 Jan 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
